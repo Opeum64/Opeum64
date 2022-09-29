@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Opeum64
 - 👀 I’m interested in using data science for creating new tools that provides solutions for human challenges in the biomedical science field.
-- 🌱 I’m currently learning matlab and python.
+- 🌱 I’m currently learning matlab, python, and fullstack (frontend and php).
 - 💞️ I’m looking to collaborate on projects that will give me skills and acquire competency.
 - 📫 How to reach me? my email is opeum64@gmail.com
 
